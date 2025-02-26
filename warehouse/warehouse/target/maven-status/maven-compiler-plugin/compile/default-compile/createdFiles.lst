@@ -1,0 +1,14 @@
+com\warehouse\warehouse\model\Price.class
+com\warehouse\warehouse\controller\PriceController.class
+com\warehouse\warehouse\controller\ProductController.class
+com\warehouse\warehouse\model\Products.class
+com\warehouse\warehouse\service\ProductService.class
+com\warehouse\warehouse\service\ArticleService.class
+com\warehouse\warehouse\model\Article.class
+com\warehouse\warehouse\repository\ArticleRepository.class
+com\warehouse\warehouse\controller\WarehouseController.class
+com\warehouse\warehouse\controller\ArticlesController.class
+com\warehouse\warehouse\service\PriceService.class
+com\warehouse\warehouse\repository\PriceRepository.class
+com\warehouse\warehouse\repository\ProductRepository.class
+com\warehouse\warehouse\WarehouseApplication.class
